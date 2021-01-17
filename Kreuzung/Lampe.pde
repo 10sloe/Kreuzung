@@ -15,9 +15,9 @@ class Lampe
    radius = 20;
  }
 
- void setAn(boolean wert)
+ void setAn(boolean an_)
  {
-   an = wert;
+   an = an_;
  }
 
  void zeichnen()
